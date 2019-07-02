@@ -4,5 +4,5 @@
 
 `json2json` Fang's data to labelme foramt
 
-'Split_dataset` split dataset `train/val/test` or `train/val`
+`Split_dataset` split dataset `train/val/test` or `train/val`
 
